@@ -21,11 +21,13 @@
   },
   "homepage": "https://github.com/SkipLabs/reactive_social_network_service_poc#readme",
   "devDependencies": {
+    "@types/express": "^5.0.1",
     "@types/node": "^22.15.3",
     "typescript": "^5.8.3"
   },
   "type": "module",
   "dependencies": {
-    "@skiplabs/skip": "^0.0.16"
+    "@skiplabs/skip": "^0.0.16",
+    "express": "^5.1.0"
   }
 }
